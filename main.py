@@ -36,3 +36,4 @@ while True:
   screen.blit(test_surface, (x_pos, y_pos))
   pygame.display.update()
   clock.tick(60)
+  print('test')
